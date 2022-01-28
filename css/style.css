@@ -1,0 +1,11 @@
+.carousel-item{
+    background-color: darkblue;
+    padding:5% 15%;
+    color:#fff;
+    text-align:center;
+    font-style:italic;
+}
+.feedback-img{
+    width:150px;
+    height:auto;
+}
